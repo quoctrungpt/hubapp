@@ -1,0 +1,1364 @@
+{
+  "respondents": 49,
+  "questionCount": 12,
+  "overallAverage": 4.098639455782313,
+  "overallPositivePercent": 78,
+  "questions": [
+    {
+      "id": "story-role",
+      "label": "So với trước khóa học, anh/chị đánh giá hiểu biết của mình về VAI TRÒ CỦA CÂU CHUYỆN THAY ĐỔI như thế nào?",
+      "category": "story",
+      "categoryLabel": "Câu chuyện thay đổi",
+      "responses": 49,
+      "average": 3.673469387755102,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 2,
+          "percent": 4
+        },
+        {
+          "score": 3,
+          "count": 19,
+          "percent": 39
+        },
+        {
+          "score": 4,
+          "count": 21,
+          "percent": 43
+        },
+        {
+          "score": 5,
+          "count": 7,
+          "percent": 14
+        }
+      ],
+      "positivePercent": 57
+    },
+    {
+      "id": "readiness-write",
+      "label": "Anh/ chị có sẵn sàng thu thập và viết câu chuyện thay đổi của mình sau khóa tập huấn này không?",
+      "category": "readiness",
+      "categoryLabel": "Sẵn sàng thực hành",
+      "responses": 49,
+      "average": 3.7551020408163267,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 1,
+          "percent": 2
+        },
+        {
+          "score": 3,
+          "count": 19,
+          "percent": 39
+        },
+        {
+          "score": 4,
+          "count": 20,
+          "percent": 41
+        },
+        {
+          "score": 5,
+          "count": 9,
+          "percent": 18
+        }
+      ],
+      "positivePercent": 59
+    },
+    {
+      "id": "story-process",
+      "label": "Hãy đánh giá sự thấu hiểu của mình về QUY TRÌNH thu thập câu chuyện thay đổi?",
+      "category": "story",
+      "categoryLabel": "Câu chuyện thay đổi",
+      "responses": 49,
+      "average": 4.408163265306122,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 2,
+          "percent": 4
+        },
+        {
+          "score": 3,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 4,
+          "count": 23,
+          "percent": 47
+        },
+        {
+          "score": 5,
+          "count": 24,
+          "percent": 49
+        }
+      ],
+      "positivePercent": 96
+    },
+    {
+      "id": "story-workflow",
+      "label": "So với trước khóa học, anh/chị đã hiểu hơn về những việc mình cần làm để thu thập và viết câu chuyện thay đổi chưa?",
+      "category": "story",
+      "categoryLabel": "Câu chuyện thay đổi",
+      "responses": 49,
+      "average": 4.469387755102041,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 1,
+          "percent": 2
+        },
+        {
+          "score": 3,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 4,
+          "count": 23,
+          "percent": 47
+        },
+        {
+          "score": 5,
+          "count": 25,
+          "percent": 51
+        }
+      ],
+      "positivePercent": 98
+    },
+    {
+      "id": "action-plan",
+      "label": "Anh/chị hay đánh giá mức độ hiểu của mình về các thành phần của một BẢN KẾ HOẠCH HÀNH ĐỘNG.",
+      "category": "planning",
+      "categoryLabel": "Lập kế hoạch",
+      "responses": 49,
+      "average": 4.061224489795919,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 3,
+          "count": 13,
+          "percent": 27
+        },
+        {
+          "score": 4,
+          "count": 20,
+          "percent": 41
+        },
+        {
+          "score": 5,
+          "count": 16,
+          "percent": 33
+        }
+      ],
+      "positivePercent": 73
+    },
+    {
+      "id": "interview",
+      "label": "So với trước khóa học, anh/chị đã hiểu hơn về những thông tin cần thu thập khi phỏng vấn nhân vật chưa?",
+      "category": "interview",
+      "categoryLabel": "Kỹ năng phỏng vấn",
+      "responses": 49,
+      "average": 4.204081632653061,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 8,
+          "percent": 16
+        },
+        {
+          "score": 3,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 4,
+          "count": 15,
+          "percent": 31
+        },
+        {
+          "score": 5,
+          "count": 26,
+          "percent": 53
+        }
+      ],
+      "positivePercent": 84
+    },
+    {
+      "id": "photography",
+      "label": "So với trước khóa học, anh/chị đánh giá mình đã hiểu kiến thức cơ bản về chụp ảnh như thế nào?",
+      "category": "visual",
+      "categoryLabel": "Sản xuất nội dung",
+      "responses": 49,
+      "average": 4.591836734693878,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 3,
+          "count": 6,
+          "percent": 12
+        },
+        {
+          "score": 4,
+          "count": 8,
+          "percent": 16
+        },
+        {
+          "score": 5,
+          "count": 35,
+          "percent": 71
+        }
+      ],
+      "positivePercent": 88
+    },
+    {
+      "id": "video",
+      "label": "So với trước khóa học, anh/chị đánh giá mình đã hiểu kiến thức cơ bản về quay video như thế nào?",
+      "category": "visual",
+      "categoryLabel": "Sản xuất nội dung",
+      "responses": 49,
+      "average": 4.428571428571429,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 3,
+          "count": 9,
+          "percent": 18
+        },
+        {
+          "score": 4,
+          "count": 10,
+          "percent": 20
+        },
+        {
+          "score": 5,
+          "count": 30,
+          "percent": 61
+        }
+      ],
+      "positivePercent": 82
+    },
+    {
+      "id": "video-editing",
+      "label": "So với trước khóa học, anh/chị đánh giá mình đã hiểu kiến thức cơ bản về sử dụng CapCut như thế nào?",
+      "category": "visual",
+      "categoryLabel": "Sản xuất nội dung",
+      "responses": 49,
+      "average": 4.244897959183674,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 3,
+          "count": 12,
+          "percent": 24
+        },
+        {
+          "score": 4,
+          "count": 13,
+          "percent": 27
+        },
+        {
+          "score": 5,
+          "count": 24,
+          "percent": 49
+        }
+      ],
+      "positivePercent": 76
+    },
+    {
+      "id": "confidence",
+      "label": "Anh/chị/bạn có tự tin mình có thể thu thập hình ảnh/ video và viết một câu chuyện thay đổi hoàn chỉnh không?",
+      "category": "readiness",
+      "categoryLabel": "Sẵn sàng thực hành",
+      "responses": 49,
+      "average": 3.1020408163265305,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 25,
+          "percent": 51
+        },
+        {
+          "score": 3,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 4,
+          "count": 18,
+          "percent": 37
+        },
+        {
+          "score": 5,
+          "count": 6,
+          "percent": 12
+        }
+      ],
+      "positivePercent": 49
+    },
+    {
+      "id": "satisfaction",
+      "label": "Anh/chị/bạn vui lòng đánh giá mức độ hài lòng của mình với khóa tập huấn.",
+      "category": "experience",
+      "categoryLabel": "Đánh giá tập huấn",
+      "responses": 49,
+      "average": 4.183673469387755,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 3,
+          "percent": 6
+        },
+        {
+          "score": 2,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 3,
+          "count": 2,
+          "percent": 4
+        },
+        {
+          "score": 4,
+          "count": 24,
+          "percent": 49
+        },
+        {
+          "score": 5,
+          "count": 20,
+          "percent": 41
+        }
+      ],
+      "positivePercent": 90
+    },
+    {
+      "id": "content-clarity",
+      "label": "Anh/chị/bạn vui lòng đánh giá mức độ rõ ràng và dễ hiểu của nội dung tập huấn.",
+      "category": "experience",
+      "categoryLabel": "Đánh giá tập huấn",
+      "responses": 49,
+      "average": 4.061224489795919,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 3,
+          "count": 7,
+          "percent": 14
+        },
+        {
+          "score": 4,
+          "count": 32,
+          "percent": 65
+        },
+        {
+          "score": 5,
+          "count": 10,
+          "percent": 20
+        }
+      ],
+      "positivePercent": 86
+    }
+  ],
+  "categories": [
+    {
+      "id": "story",
+      "label": "Câu chuyện thay đổi"
+    },
+    {
+      "id": "readiness",
+      "label": "Sẵn sàng thực hành"
+    },
+    {
+      "id": "planning",
+      "label": "Lập kế hoạch"
+    },
+    {
+      "id": "interview",
+      "label": "Kỹ năng phỏng vấn"
+    },
+    {
+      "id": "visual",
+      "label": "Sản xuất nội dung"
+    },
+    {
+      "id": "experience",
+      "label": "Đánh giá tập huấn"
+    }
+  ],
+  "participantGroups": {
+    "roles": [
+      {
+        "label": "Cán bộ & chuyên viên dự án",
+        "respondents": 20,
+        "average": 4.15,
+        "positivePercent": 78,
+        "questionAverages": [
+          {
+            "questionId": "story-role",
+            "average": 3.65,
+            "responses": 20
+          },
+          {
+            "questionId": "readiness-write",
+            "average": 3.55,
+            "responses": 20
+          },
+          {
+            "questionId": "story-process",
+            "average": 4.55,
+            "responses": 20
+          },
+          {
+            "questionId": "story-workflow",
+            "average": 4.55,
+            "responses": 20
+          },
+          {
+            "questionId": "action-plan",
+            "average": 4.3,
+            "responses": 20
+          },
+          {
+            "questionId": "interview",
+            "average": 4.3,
+            "responses": 20
+          },
+          {
+            "questionId": "photography",
+            "average": 4.65,
+            "responses": 20
+          },
+          {
+            "questionId": "video",
+            "average": 4.5,
+            "responses": 20
+          },
+          {
+            "questionId": "video-editing",
+            "average": 4.4,
+            "responses": 20
+          },
+          {
+            "questionId": "confidence",
+            "average": 3.2,
+            "responses": 20
+          },
+          {
+            "questionId": "satisfaction",
+            "average": 4.15,
+            "responses": 20
+          },
+          {
+            "questionId": "content-clarity",
+            "average": 4,
+            "responses": 20
+          }
+        ]
+      },
+      {
+        "label": "HTX & kinh doanh địa phương",
+        "respondents": 12,
+        "average": 3.8819444444444446,
+        "positivePercent": 69,
+        "questionAverages": [
+          {
+            "questionId": "story-role",
+            "average": 3.5833333333333335,
+            "responses": 12
+          },
+          {
+            "questionId": "readiness-write",
+            "average": 4,
+            "responses": 12
+          },
+          {
+            "questionId": "story-process",
+            "average": 4.083333333333333,
+            "responses": 12
+          },
+          {
+            "questionId": "story-workflow",
+            "average": 4.166666666666667,
+            "responses": 12
+          },
+          {
+            "questionId": "action-plan",
+            "average": 3.6666666666666665,
+            "responses": 12
+          },
+          {
+            "questionId": "interview",
+            "average": 3.8333333333333335,
+            "responses": 12
+          },
+          {
+            "questionId": "photography",
+            "average": 4.25,
+            "responses": 12
+          },
+          {
+            "questionId": "video",
+            "average": 3.9166666666666665,
+            "responses": 12
+          },
+          {
+            "questionId": "video-editing",
+            "average": 4,
+            "responses": 12
+          },
+          {
+            "questionId": "confidence",
+            "average": 2.5833333333333335,
+            "responses": 12
+          },
+          {
+            "questionId": "satisfaction",
+            "average": 4.333333333333333,
+            "responses": 12
+          },
+          {
+            "questionId": "content-clarity",
+            "average": 4.166666666666667,
+            "responses": 12
+          }
+        ]
+      },
+      {
+        "label": "Cơ quan & tổ chức xã hội",
+        "respondents": 8,
+        "average": 4.135416666666667,
+        "positivePercent": 82,
+        "questionAverages": [
+          {
+            "questionId": "story-role",
+            "average": 3.75,
+            "responses": 8
+          },
+          {
+            "questionId": "readiness-write",
+            "average": 3.875,
+            "responses": 8
+          },
+          {
+            "questionId": "story-process",
+            "average": 4.75,
+            "responses": 8
+          },
+          {
+            "questionId": "story-workflow",
+            "average": 4.5,
+            "responses": 8
+          },
+          {
+            "questionId": "action-plan",
+            "average": 3.875,
+            "responses": 8
+          },
+          {
+            "questionId": "interview",
+            "average": 4,
+            "responses": 8
+          },
+          {
+            "questionId": "photography",
+            "average": 4.75,
+            "responses": 8
+          },
+          {
+            "questionId": "video",
+            "average": 4.625,
+            "responses": 8
+          },
+          {
+            "questionId": "video-editing",
+            "average": 4,
+            "responses": 8
+          },
+          {
+            "questionId": "confidence",
+            "average": 3.75,
+            "responses": 8
+          },
+          {
+            "questionId": "satisfaction",
+            "average": 3.875,
+            "responses": 8
+          },
+          {
+            "questionId": "content-clarity",
+            "average": 3.875,
+            "responses": 8
+          }
+        ]
+      },
+      {
+        "label": "Giáo dục & nghiên cứu",
+        "respondents": 7,
+        "average": 4.214285714285714,
+        "positivePercent": 82,
+        "questionAverages": [
+          {
+            "questionId": "story-role",
+            "average": 3.5714285714285716,
+            "responses": 7
+          },
+          {
+            "questionId": "readiness-write",
+            "average": 3.5714285714285716,
+            "responses": 7
+          },
+          {
+            "questionId": "story-process",
+            "average": 4.285714285714286,
+            "responses": 7
+          },
+          {
+            "questionId": "story-workflow",
+            "average": 4.857142857142857,
+            "responses": 7
+          },
+          {
+            "questionId": "action-plan",
+            "average": 4.285714285714286,
+            "responses": 7
+          },
+          {
+            "questionId": "interview",
+            "average": 4.857142857142857,
+            "responses": 7
+          },
+          {
+            "questionId": "photography",
+            "average": 4.857142857142857,
+            "responses": 7
+          },
+          {
+            "questionId": "video",
+            "average": 4.857142857142857,
+            "responses": 7
+          },
+          {
+            "questionId": "video-editing",
+            "average": 4.428571428571429,
+            "responses": 7
+          },
+          {
+            "questionId": "confidence",
+            "average": 2.5714285714285716,
+            "responses": 7
+          },
+          {
+            "questionId": "satisfaction",
+            "average": 4.285714285714286,
+            "responses": 7
+          },
+          {
+            "questionId": "content-clarity",
+            "average": 4.142857142857143,
+            "responses": 7
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "label": "WEL · Doanh nhân nữ",
+        "respondents": 21,
+        "average": 4.170634920634921,
+        "positivePercent": 82,
+        "questionAverages": [
+          {
+            "questionId": "story-role",
+            "average": 3.6666666666666665,
+            "responses": 21
+          },
+          {
+            "questionId": "readiness-write",
+            "average": 3.761904761904762,
+            "responses": 21
+          },
+          {
+            "questionId": "story-process",
+            "average": 4.619047619047619,
+            "responses": 21
+          },
+          {
+            "questionId": "story-workflow",
+            "average": 4.523809523809524,
+            "responses": 21
+          },
+          {
+            "questionId": "action-plan",
+            "average": 4.142857142857143,
+            "responses": 21
+          },
+          {
+            "questionId": "interview",
+            "average": 4.285714285714286,
+            "responses": 21
+          },
+          {
+            "questionId": "photography",
+            "average": 4.761904761904762,
+            "responses": 21
+          },
+          {
+            "questionId": "video",
+            "average": 4.619047619047619,
+            "responses": 21
+          },
+          {
+            "questionId": "video-editing",
+            "average": 4.428571428571429,
+            "responses": 21
+          },
+          {
+            "questionId": "confidence",
+            "average": 3.4761904761904763,
+            "responses": 21
+          },
+          {
+            "questionId": "satisfaction",
+            "average": 3.9047619047619047,
+            "responses": 21
+          },
+          {
+            "questionId": "content-clarity",
+            "average": 3.857142857142857,
+            "responses": 21
+          }
+        ]
+      },
+      {
+        "label": "Dự án Măng",
+        "respondents": 17,
+        "average": 4.0245098039215685,
+        "positivePercent": 76,
+        "questionAverages": [
+          {
+            "questionId": "story-role",
+            "average": 3.7058823529411766,
+            "responses": 17
+          },
+          {
+            "questionId": "readiness-write",
+            "average": 3.8823529411764706,
+            "responses": 17
+          },
+          {
+            "questionId": "story-process",
+            "average": 4.117647058823529,
+            "responses": 17
+          },
+          {
+            "questionId": "story-workflow",
+            "average": 4.176470588235294,
+            "responses": 17
+          },
+          {
+            "questionId": "action-plan",
+            "average": 3.8823529411764706,
+            "responses": 17
+          },
+          {
+            "questionId": "interview",
+            "average": 4,
+            "responses": 17
+          },
+          {
+            "questionId": "photography",
+            "average": 4.352941176470588,
+            "responses": 17
+          },
+          {
+            "questionId": "video",
+            "average": 4.176470588235294,
+            "responses": 17
+          },
+          {
+            "questionId": "video-editing",
+            "average": 4,
+            "responses": 17
+          },
+          {
+            "questionId": "confidence",
+            "average": 3.0588235294117645,
+            "responses": 17
+          },
+          {
+            "questionId": "satisfaction",
+            "average": 4.647058823529412,
+            "responses": 17
+          },
+          {
+            "questionId": "content-clarity",
+            "average": 4.294117647058823,
+            "responses": 17
+          }
+        ]
+      },
+      {
+        "label": "IDAP · Chuyển đổi số",
+        "respondents": 13,
+        "average": 4.185897435897436,
+        "positivePercent": 85,
+        "questionAverages": [
+          {
+            "questionId": "story-role",
+            "average": 3.769230769230769,
+            "responses": 13
+          },
+          {
+            "questionId": "readiness-write",
+            "average": 4.076923076923077,
+            "responses": 13
+          },
+          {
+            "questionId": "story-process",
+            "average": 4.230769230769231,
+            "responses": 13
+          },
+          {
+            "questionId": "story-workflow",
+            "average": 4.461538461538462,
+            "responses": 13
+          },
+          {
+            "questionId": "action-plan",
+            "average": 4.076923076923077,
+            "responses": 13
+          },
+          {
+            "questionId": "interview",
+            "average": 4.384615384615385,
+            "responses": 13
+          },
+          {
+            "questionId": "photography",
+            "average": 4.769230769230769,
+            "responses": 13
+          },
+          {
+            "questionId": "video",
+            "average": 4.615384615384615,
+            "responses": 13
+          },
+          {
+            "questionId": "video-editing",
+            "average": 4.3076923076923075,
+            "responses": 13
+          },
+          {
+            "questionId": "confidence",
+            "average": 3.230769230769231,
+            "responses": 13
+          },
+          {
+            "questionId": "satisfaction",
+            "average": 4.153846153846154,
+            "responses": 13
+          },
+          {
+            "questionId": "content-clarity",
+            "average": 4.153846153846154,
+            "responses": 13
+          }
+        ]
+      },
+      {
+        "label": "DDCI Sơn La",
+        "respondents": 7,
+        "average": 4.059523809523809,
+        "positivePercent": 71,
+        "questionAverages": [
+          {
+            "questionId": "story-role",
+            "average": 3.4285714285714284,
+            "responses": 7
+          },
+          {
+            "questionId": "readiness-write",
+            "average": 3.4285714285714284,
+            "responses": 7
+          },
+          {
+            "questionId": "story-process",
+            "average": 5,
+            "responses": 7
+          },
+          {
+            "questionId": "story-workflow",
+            "average": 5,
+            "responses": 7
+          },
+          {
+            "questionId": "action-plan",
+            "average": 4.285714285714286,
+            "responses": 7
+          },
+          {
+            "questionId": "interview",
+            "average": 4,
+            "responses": 7
+          },
+          {
+            "questionId": "photography",
+            "average": 4.714285714285714,
+            "responses": 7
+          },
+          {
+            "questionId": "video",
+            "average": 4.428571428571429,
+            "responses": 7
+          },
+          {
+            "questionId": "video-editing",
+            "average": 4.428571428571429,
+            "responses": 7
+          },
+          {
+            "questionId": "confidence",
+            "average": 2.5714285714285716,
+            "responses": 7
+          },
+          {
+            "questionId": "satisfaction",
+            "average": 3.5714285714285716,
+            "responses": 7
+          },
+          {
+            "questionId": "content-clarity",
+            "average": 3.857142857142857,
+            "responses": 7
+          }
+        ]
+      }
+    ]
+  },
+  "insights": {
+    "strongest": {
+      "id": "photography",
+      "label": "So với trước khóa học, anh/chị đánh giá mình đã hiểu kiến thức cơ bản về chụp ảnh như thế nào?",
+      "category": "visual",
+      "categoryLabel": "Sản xuất nội dung",
+      "responses": 49,
+      "average": 4.591836734693878,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 3,
+          "count": 6,
+          "percent": 12
+        },
+        {
+          "score": 4,
+          "count": 8,
+          "percent": 16
+        },
+        {
+          "score": 5,
+          "count": 35,
+          "percent": 71
+        }
+      ],
+      "positivePercent": 88
+    },
+    "improvement": {
+      "id": "confidence",
+      "label": "Anh/chị/bạn có tự tin mình có thể thu thập hình ảnh/ video và viết một câu chuyện thay đổi hoàn chỉnh không?",
+      "category": "readiness",
+      "categoryLabel": "Sẵn sàng thực hành",
+      "responses": 49,
+      "average": 3.1020408163265305,
+      "distribution": [
+        {
+          "score": 1,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 2,
+          "count": 25,
+          "percent": 51
+        },
+        {
+          "score": 3,
+          "count": 0,
+          "percent": 0
+        },
+        {
+          "score": 4,
+          "count": 18,
+          "percent": 37
+        },
+        {
+          "score": 5,
+          "count": 6,
+          "percent": 12
+        }
+      ],
+      "positivePercent": 49
+    },
+    "readinessAverage": 3.428571428571429,
+    "satisfactionAverage": 4.122448979591837,
+    "roleLeader": {
+      "label": "Giáo dục & nghiên cứu",
+      "respondents": 7,
+      "average": 4.214285714285714,
+      "positivePercent": 82,
+      "questionAverages": [
+        {
+          "questionId": "story-role",
+          "average": 3.5714285714285716,
+          "responses": 7
+        },
+        {
+          "questionId": "readiness-write",
+          "average": 3.5714285714285716,
+          "responses": 7
+        },
+        {
+          "questionId": "story-process",
+          "average": 4.285714285714286,
+          "responses": 7
+        },
+        {
+          "questionId": "story-workflow",
+          "average": 4.857142857142857,
+          "responses": 7
+        },
+        {
+          "questionId": "action-plan",
+          "average": 4.285714285714286,
+          "responses": 7
+        },
+        {
+          "questionId": "interview",
+          "average": 4.857142857142857,
+          "responses": 7
+        },
+        {
+          "questionId": "photography",
+          "average": 4.857142857142857,
+          "responses": 7
+        },
+        {
+          "questionId": "video",
+          "average": 4.857142857142857,
+          "responses": 7
+        },
+        {
+          "questionId": "video-editing",
+          "average": 4.428571428571429,
+          "responses": 7
+        },
+        {
+          "questionId": "confidence",
+          "average": 2.5714285714285716,
+          "responses": 7
+        },
+        {
+          "questionId": "satisfaction",
+          "average": 4.285714285714286,
+          "responses": 7
+        },
+        {
+          "questionId": "content-clarity",
+          "average": 4.142857142857143,
+          "responses": 7
+        }
+      ]
+    },
+    "roleFocus": {
+      "label": "HTX & kinh doanh địa phương",
+      "respondents": 12,
+      "average": 3.8819444444444446,
+      "positivePercent": 69,
+      "questionAverages": [
+        {
+          "questionId": "story-role",
+          "average": 3.5833333333333335,
+          "responses": 12
+        },
+        {
+          "questionId": "readiness-write",
+          "average": 4,
+          "responses": 12
+        },
+        {
+          "questionId": "story-process",
+          "average": 4.083333333333333,
+          "responses": 12
+        },
+        {
+          "questionId": "story-workflow",
+          "average": 4.166666666666667,
+          "responses": 12
+        },
+        {
+          "questionId": "action-plan",
+          "average": 3.6666666666666665,
+          "responses": 12
+        },
+        {
+          "questionId": "interview",
+          "average": 3.8333333333333335,
+          "responses": 12
+        },
+        {
+          "questionId": "photography",
+          "average": 4.25,
+          "responses": 12
+        },
+        {
+          "questionId": "video",
+          "average": 3.9166666666666665,
+          "responses": 12
+        },
+        {
+          "questionId": "video-editing",
+          "average": 4,
+          "responses": 12
+        },
+        {
+          "questionId": "confidence",
+          "average": 2.5833333333333335,
+          "responses": 12
+        },
+        {
+          "questionId": "satisfaction",
+          "average": 4.333333333333333,
+          "responses": 12
+        },
+        {
+          "questionId": "content-clarity",
+          "average": 4.166666666666667,
+          "responses": 12
+        }
+      ]
+    },
+    "projectLeader": {
+      "label": "IDAP · Chuyển đổi số",
+      "respondents": 13,
+      "average": 4.185897435897436,
+      "positivePercent": 85,
+      "questionAverages": [
+        {
+          "questionId": "story-role",
+          "average": 3.769230769230769,
+          "responses": 13
+        },
+        {
+          "questionId": "readiness-write",
+          "average": 4.076923076923077,
+          "responses": 13
+        },
+        {
+          "questionId": "story-process",
+          "average": 4.230769230769231,
+          "responses": 13
+        },
+        {
+          "questionId": "story-workflow",
+          "average": 4.461538461538462,
+          "responses": 13
+        },
+        {
+          "questionId": "action-plan",
+          "average": 4.076923076923077,
+          "responses": 13
+        },
+        {
+          "questionId": "interview",
+          "average": 4.384615384615385,
+          "responses": 13
+        },
+        {
+          "questionId": "photography",
+          "average": 4.769230769230769,
+          "responses": 13
+        },
+        {
+          "questionId": "video",
+          "average": 4.615384615384615,
+          "responses": 13
+        },
+        {
+          "questionId": "video-editing",
+          "average": 4.3076923076923075,
+          "responses": 13
+        },
+        {
+          "questionId": "confidence",
+          "average": 3.230769230769231,
+          "responses": 13
+        },
+        {
+          "questionId": "satisfaction",
+          "average": 4.153846153846154,
+          "responses": 13
+        },
+        {
+          "questionId": "content-clarity",
+          "average": 4.153846153846154,
+          "responses": 13
+        }
+      ]
+    },
+    "projectFocus": {
+      "label": "Dự án Măng",
+      "respondents": 17,
+      "average": 4.0245098039215685,
+      "positivePercent": 76,
+      "questionAverages": [
+        {
+          "questionId": "story-role",
+          "average": 3.7058823529411766,
+          "responses": 17
+        },
+        {
+          "questionId": "readiness-write",
+          "average": 3.8823529411764706,
+          "responses": 17
+        },
+        {
+          "questionId": "story-process",
+          "average": 4.117647058823529,
+          "responses": 17
+        },
+        {
+          "questionId": "story-workflow",
+          "average": 4.176470588235294,
+          "responses": 17
+        },
+        {
+          "questionId": "action-plan",
+          "average": 3.8823529411764706,
+          "responses": 17
+        },
+        {
+          "questionId": "interview",
+          "average": 4,
+          "responses": 17
+        },
+        {
+          "questionId": "photography",
+          "average": 4.352941176470588,
+          "responses": 17
+        },
+        {
+          "questionId": "video",
+          "average": 4.176470588235294,
+          "responses": 17
+        },
+        {
+          "questionId": "video-editing",
+          "average": 4,
+          "responses": 17
+        },
+        {
+          "questionId": "confidence",
+          "average": 3.0588235294117645,
+          "responses": 17
+        },
+        {
+          "questionId": "satisfaction",
+          "average": 4.647058823529412,
+          "responses": 17
+        },
+        {
+          "questionId": "content-clarity",
+          "average": 4.294117647058823,
+          "responses": 17
+        }
+      ]
+    }
+  }
+}

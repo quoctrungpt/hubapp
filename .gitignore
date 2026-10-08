@@ -33,6 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# Raw survey data contains respondent identifiers. Deploy the anonymized aggregates instead.
+/lib/Mapped_Likert_Responses.csv
+
 # vercel
 .vercel
 
